@@ -1,0 +1,22 @@
+{
+  "sign": [
+    {
+      "id": "08e7",
+      "name": " saran",
+      "password": "12345678",
+      "dob": "2024-06-12",
+      "age": "23",
+      "email": " saran@gmail.com",
+      "mobile": "6383829682"
+    },
+    {
+      "id": "d871",
+      "name": " sabarish",
+      "password": "12345678",
+      "dob": "2024-06-18",
+      "age": "20",
+      "email": " sabarish@gmail.com",
+      "mobile": "8903972993"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+section {
+    margin: 0;
+    padding: 0;
+    font-family: montserrat;
+    background: linear-gradient(#4700D8,#827397);
+    height: 140vh;
+    overflow: hidden;
+}
+.forms
+{
+    position: absolute;
+    top: 18%;
+    left: 28%;
+    font-family: 'poppins',sans-serif;
+    width: 600px;
+    background-color: #fff;
+    height: 118%;
+    border-radius: 30px;
+}
+form .adlog{
+    text-align: center;
+    font-size: 20px;
+}
+.forms h3{
+    padding-bottom: 30px;
+    border-bottom: 1px solid silver;
+}
+.forms form{
+    text-align: center;
+    padding: 0 40px;
+    box-sizing:content-box;
+}
+.forms form .form-control
+{
+    width: 100%;
+    height: 40px;
+    background: white;
+    border-radius: 4px;
+    border: 1px solid silver;
+    margin: 10px 0 18px 0px;
+    padding: 0 10px;
+}
+form button{
+    background-color: #395144;
+    margin-left: 6%;
+    border-radius: 40px;
+    width: 200px;
+    height: 40px;
+    color: white;
+    font-size: 16px;
+    outline: none;   
+}
+form .inputbox{
+    text-align: left;
+    font-size: 20px;
+}
+/* form .password{
+    text-align: left;
+    font-size: 20px;
+} */
+form .dob{
+
+    text-align: left;
+    font-size: 20px;
+}
+form .email{
+    text-align: left;
+    font-size: 20px;
+}
+form .mobile{
+    text-align: left;
+    font-size: 20px;
+}
+form .age{
+    text-align: left;
+    font-size: 20px;
+}
